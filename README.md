@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Lorenzo!
 
-<!--
-**Lorenz0L/Lorenz0L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 University of California, San Diego — Computer Science Major Junior
+## 🔭 Aspiring Software Engineer | Machine Learning & Data Science Enthusiast
 
-Here are some ideas to get you started:
+I’m currently looking for an internship where I can contribute to meaningful projects, grow my technical skills, and learn from industry mentors!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📧 **Email:** lemuslorenzo56@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/lorenzo-lemus-472031362/
+
+---
+
+
