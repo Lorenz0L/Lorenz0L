@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lorenzo!
 
 ## 🎓 University of California, San Diego — Computer Science Major Junior
-## 🔭 Aspiring Software Engineer | Machine Learning & Data Science Enthusiast
+## 🔭 Software Engineer | Machine Learning & Data Science Enthusiast
 
 I’m currently looking for an internship where I can contribute to meaningful projects, grow my technical skills, and learn from industry mentors!
 
